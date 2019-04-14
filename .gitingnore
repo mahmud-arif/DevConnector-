@@ -1,0 +1,11 @@
+node_modules
+
+package-lock.json
+variable.env
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional REPL history
+.node_repl_history
